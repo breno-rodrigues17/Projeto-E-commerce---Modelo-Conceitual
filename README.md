@@ -12,7 +12,7 @@ O desafio consiste em **refinar o modelo apresentado**, incluindo os seguintes p
 - **Entrega:** Cada entrega possui **status** e **código de rastreio** para acompanhamento.  
 
 ## 🛠️ Tecnologias Utilizadas
-- **DBDesigner** ou ferramenta similar para criação do diagrama.
+- **Draw io** ou ferramenta similar para criação do diagrama.
 - **Git/GitHub** para versionamento e hospedagem do projeto.
 - Conceitos de **modelagem conceitual**, **entidades**, **relacionamentos** e **integridade de dados**.
 
