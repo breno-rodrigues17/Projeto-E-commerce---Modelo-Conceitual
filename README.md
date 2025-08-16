@@ -18,8 +18,7 @@ O desafio consiste em **refinar o modelo apresentado**, incluindo os seguintes p
 
 
 ## 🔍 Visualização do Diagrama
-O diagrama está disponível na pasta `![Diagrama Conceitual](https://raw.githubusercontent.com/breno-rodrigues17/Projeto-E-commerce---Modelo-Conceitual/main/Modelo%20conceitual%20ecommerce%20-%20dio.png)
-` e pode ser visualizado diretamente no GitHub como imagem.  
+![Diagrama Conceitual](https://raw.githubusercontent.com/breno-rodrigues17/Projeto-E-commerce---Modelo-Conceitual/main/Modelo%20conceitual%20ecommerce%20-%20dio.png)
 
 > Dica: Clique na imagem para ampliar e analisar todos os relacionamentos entre entidades.
 
